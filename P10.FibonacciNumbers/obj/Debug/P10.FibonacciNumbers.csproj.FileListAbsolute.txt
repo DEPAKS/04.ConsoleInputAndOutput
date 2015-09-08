@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P10.FibonacciNumbers\bin\Debug\P10.FibonacciNumbers.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P10.FibonacciNumbers\bin\Debug\P10.FibonacciNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P10.FibonacciNumbers\bin\Debug\P10.FibonacciNumbers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P10.FibonacciNumbers\obj\Debug\P10.FibonacciNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P10.FibonacciNumbers\obj\Debug\P10.FibonacciNumbers.pdb

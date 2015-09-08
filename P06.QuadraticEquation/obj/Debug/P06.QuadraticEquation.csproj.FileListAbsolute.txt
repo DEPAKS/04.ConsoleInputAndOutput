@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P06.QuadraticEquation\bin\Debug\P06.QuadraticEquation.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P06.QuadraticEquation\bin\Debug\P06.QuadraticEquation.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P06.QuadraticEquation\bin\Debug\P06.QuadraticEquation.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P06.QuadraticEquation\obj\Debug\P06.QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P06.QuadraticEquation\obj\Debug\P06.QuadraticEquation.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P06.QuadraticEquation\obj\Debug\P06.QuadraticEquation.pdb

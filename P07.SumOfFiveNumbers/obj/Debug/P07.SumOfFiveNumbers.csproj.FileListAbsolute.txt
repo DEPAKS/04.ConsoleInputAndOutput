@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P07.SumOfFiveNumbers\bin\Debug\P07.SumOfFiveNumbers.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P07.SumOfFiveNumbers\bin\Debug\P07.SumOfFiveNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P07.SumOfFiveNumbers\bin\Debug\P07.SumOfFiveNumbers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P07.SumOfFiveNumbers\obj\Debug\P07.SumOfFiveNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P07.SumOfFiveNumbers\obj\Debug\P07.SumOfFiveNumbers.pdb

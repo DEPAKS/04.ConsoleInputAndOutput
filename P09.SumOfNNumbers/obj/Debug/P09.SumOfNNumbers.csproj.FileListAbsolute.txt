@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P09.SumOfNNumbers\bin\Debug\P09.SumOfNNumbers.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P09.SumOfNNumbers\bin\Debug\P09.SumOfNNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P09.SumOfNNumbers\bin\Debug\P09.SumOfNNumbers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P09.SumOfNNumbers\obj\Debug\P09.SumOfNNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P09.SumOfNNumbers\obj\Debug\P09.SumOfNNumbers.pdb

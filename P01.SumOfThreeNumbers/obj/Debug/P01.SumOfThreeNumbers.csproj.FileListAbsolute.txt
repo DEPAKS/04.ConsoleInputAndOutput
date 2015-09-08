@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P01.SumOfThreeNumbers\bin\Debug\P01.SumOfThreeNumbers.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P01.SumOfThreeNumbers\bin\Debug\P01.SumOfThreeNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P01.SumOfThreeNumbers\bin\Debug\P01.SumOfThreeNumbers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P01.SumOfThreeNumbers\obj\Debug\P01.SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P01.SumOfThreeNumbers\obj\Debug\P01.SumOfThreeNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P01.SumOfThreeNumbers\obj\Debug\P01.SumOfThreeNumbers.pdb

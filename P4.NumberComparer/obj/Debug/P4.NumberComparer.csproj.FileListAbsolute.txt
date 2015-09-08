@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P4.NumberComparer\bin\Debug\P4.NumberComparer.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P4.NumberComparer\bin\Debug\P4.NumberComparer.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P4.NumberComparer\bin\Debug\P4.NumberComparer.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P4.NumberComparer\obj\Debug\P4.NumberComparer.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P4.NumberComparer\obj\Debug\P4.NumberComparer.pdb

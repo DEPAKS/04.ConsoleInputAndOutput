@@ -1,0 +1,1 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P06.FormattingNumbers\bin\Debug\P06.FormattingNumbers.exe.config

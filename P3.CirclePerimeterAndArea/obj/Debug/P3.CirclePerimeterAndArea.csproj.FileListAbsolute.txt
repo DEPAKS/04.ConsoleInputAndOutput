@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P3.CirclePerimeterAndArea\bin\Debug\P3.CirclePerimeterAndArea.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P3.CirclePerimeterAndArea\bin\Debug\P3.CirclePerimeterAndArea.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P3.CirclePerimeterAndArea\bin\Debug\P3.CirclePerimeterAndArea.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P3.CirclePerimeterAndArea\obj\Debug\P3.CirclePerimeterAndArea.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P3.CirclePerimeterAndArea\obj\Debug\P3.CirclePerimeterAndArea.pdb

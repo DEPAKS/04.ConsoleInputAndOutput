@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P2.PrintCompanyInformation\bin\Debug\P2.PrintCompanyInformation.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P2.PrintCompanyInformation\bin\Debug\P2.PrintCompanyInformation.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P2.PrintCompanyInformation\bin\Debug\P2.PrintCompanyInformation.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P2.PrintCompanyInformation\obj\Debug\P2.PrintCompanyInformation.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P2.PrintCompanyInformation\obj\Debug\P2.PrintCompanyInformation.pdb

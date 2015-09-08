@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P08.NumbersFromOneToN\bin\Debug\P08.NumbersFromOneToN.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P08.NumbersFromOneToN\bin\Debug\P08.NumbersFromOneToN.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P08.NumbersFromOneToN\bin\Debug\P08.NumbersFromOneToN.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P08.NumbersFromOneToN\obj\Debug\P08.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P08.NumbersFromOneToN\obj\Debug\P08.NumbersFromOneToN.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P08.NumbersFromOneToN\obj\Debug\P08.NumbersFromOneToN.pdb

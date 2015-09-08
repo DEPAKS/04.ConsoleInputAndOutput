@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P11.NumsInIntervalDividableByGivenNum\bin\Debug\P11.NumsInIntervalDividableByGivenNum.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P11.NumsInIntervalDividableByGivenNum\bin\Debug\P11.NumsInIntervalDividableByGivenNum.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P11.NumsInIntervalDividableByGivenNum\bin\Debug\P11.NumsInIntervalDividableByGivenNum.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P11.NumsInIntervalDividableByGivenNum\obj\Debug\P11.NumsInIntervalDividableByGivenNum.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P11.NumsInIntervalDividableByGivenNum\obj\Debug\P11.NumsInIntervalDividableByGivenNum.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\04.ConsoleInputAndOutput\P11.NumsInIntervalDividableByGivenNum\obj\Debug\P11.NumsInIntervalDividableByGivenNum.csprojResolveAssemblyReference.cache
